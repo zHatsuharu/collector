@@ -39,6 +39,6 @@ To make it fully fonctionnal, clone the backend and run it too: https://github.c
 More documentation:
 
 - Cahier de recettes : [RECETTES.md](https://github.com/zHatsuharu/collector/blob/main/RECETTES.md)
-- Securité : [SECURITY.md](https://github.com/zHatsuharu/collector/blob/main/RECETTES.md)
+- Securité : [SECURITY.md](https://github.com/zHatsuharu/collector/blob/main/SECURITY.md)
 - RGAA : [RGAA.md](https://github.com/zHatsuharu/collector/blob/main/RGAA.md)
 - Bug fix : [BUG_FIX.md](https://github.com/zHatsuharu/collector/blob/main/BUG_FIX.md)
