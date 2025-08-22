@@ -1,75 +1,29 @@
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Collector
 
 ## Setup
+
+Clone the repo:
+```bash
+git clone https://github.com/zHatsuharu/collector.git
+cd collector
+```
 
 Make sure to install dependencies:
 
 ```bash
-# npm
-npm install
-
 # pnpm
 pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+## Start
 
-Start the development server on `http://localhost:3000`:
+Start the server on `http://localhost:3000`:
 
 ```bash
-# npm
-npm run dev
-
 # pnpm
 pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+---
 
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+To make it fully fonctionnal, clone the backend and run it too: https://github.com/zHatsuharu/collector-back
